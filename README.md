@@ -7,9 +7,9 @@
 
 
 
-- 🔭 I’m currently working on **snake water gun game using java script**
+- 🔭 I’m currently working on **Virtual reality escape room**
 
-- 🌱 I’m currently learning **Tailwind CSS**
+- 🌱 I’m currently learning **React.Js unity 3d**
 
 - 💬 Ask me about **Html Css**
 
