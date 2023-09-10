@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Virtual reality escape room**
 
-- 🌱 I’m currently learning **React.Js unity 3d**
+- 🌱 I’m currently learning **React.Js,unity 3d**
 
 - 💬 Ask me about **Html Css**
 
