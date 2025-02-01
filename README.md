@@ -7,15 +7,11 @@
 
 
 
-- 🔭 I’m currently working on **Virtual reality escape room**
+- 🔭 I’m currently working on **ReactJs and Node**
 
-- 🌱 I’m currently learning **React.Js,unity 3d**
-
-- 💬 Ask me about **Html Css**
+- 🌱 I’m currently learning **Advanced JavaScript frameworks and backend optimizations**
 
 - 📫 How to reach me **kumranish200a@gmail.com**
-
-- 📄 Know about my experiences [https://anishkumar2003.github.io/Anish-resume/](https://anishkumar2003.github.io/Anish-resume/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
